@@ -1,12 +1,11 @@
 /*
 *File: alphabet ten times
-*Auth: Dr Marcus IMAGWE
+*Auth: Mr. Thompson
 */
 
 #include "main.h"
 
 /**
- *
  *print_alphabet_x10 - print alphabet 10 times, in lowercase.
 */
 
