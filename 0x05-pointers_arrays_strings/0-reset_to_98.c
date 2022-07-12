@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  * reset_to_98 - sets n to 98
  * @n: input integer
